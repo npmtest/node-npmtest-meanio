@@ -1,4 +1,7 @@
-# test coverage for  [meanio (v0.9.4)](https://github.com/linnovate/meanio#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-meanio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-meanio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-meanio.svg)](https://travis-ci.org/npmtest/node-npmtest-meanio)
+# npmtest-meanio
+
+#### test coverage for  [meanio (v0.9.4)](https://github.com/linnovate/meanio#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-meanio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-meanio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-meanio.svg)](https://travis-ci.org/npmtest/node-npmtest-meanio)
+
 #### Extracted functionality for MEAN.io
 
 [![NPM](https://nodei.co/npm/meanio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/meanio)
